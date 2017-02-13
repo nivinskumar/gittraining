@@ -7,6 +7,9 @@ public class Common {
 	public static void main(String[] args) {
 		
 		System.out.println("Nivin");
+		
+		System.out.println("Nivin2");
+		
 	}
 
 }
