@@ -6,5 +6,11 @@ package com.lead;
  *
  */
 public class Nivin {
+	
+	
+	public static void main(String arg[])
+	{
+		System.out.println("System hot fix");
+	}
 
 }
